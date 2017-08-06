@@ -1,0 +1,27 @@
+{
+  "name": "9_2",
+  "version": "1.0.0",
+  "description": "tab",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "tablice"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/savespace/Zadanie_9_2.git"
+  },
+  "keywords": [
+    "tab"
+  ],
+  "author": "Krzysztof Zielonka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/savespace/Zadanie_9_2/issues"
+  },
+  "homepage": "https://github.com/savespace/Zadanie_9_2#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-sass": "^2.0.0"
+  }
+}
